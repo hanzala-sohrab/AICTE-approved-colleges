@@ -1,0 +1,196 @@
+{
+    "SK": [
+        {
+            "1-7001717563": {
+                "name": "SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "DIGITAL ELECTRONICS AND COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "POWER ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCEINCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    },
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTERS IN COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7009755604": {
+                "name": "SIKKIM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7010743735": {
+                "name": "GOVERNMENT PHARMACY COLLEGE",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7011677817": {
+                "name": "CENTRE FOR COMPUTERS AND COMMUNICATION TECHNOLOGY (CCCT)",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7012581074": {
+                "name": "ADVANCED TECHNICAL TRAINING CENTRE",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MANUFACTURING TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHATRONICS"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7013892721": {
+                "name": "HIMALAYAN PHARMACY INSTITUTE",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICAL ANALYSIS"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICAL CHEMISTRY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICS"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOGNOSY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOLOGY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        }
+    ]
+}

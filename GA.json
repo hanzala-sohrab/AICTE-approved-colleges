@@ -1,0 +1,565 @@
+{
+    "GA": [
+        {
+            "1-7003786958": {
+                "name": "GOVERNMENT POLYTECHNIC MAYEM BICHOLIM",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7006364088": {
+                "name": "DON BOSCO COLLEGE OF ENGINEERING",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7006458223": {
+                "name": "INSTITUTE OF SHIPBUILDING TECHNOLOGY",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "SHIPBUILDING ENGINEERING (SANDWICH PATTERN)"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7006524807": {
+                "name": "GOA COLLEGE OF ENGINEERING (GOVERNMENT OF GOA)",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRONICS COMMUNICATION  AND INSTRUMENTATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "FOUNDATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INDUSTRIAL AUTOMATION & RF ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INDUSTRIAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "MICRO ELECTRONICS"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "POWER AND ENERGY ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "STRUCTURAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MINING ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7010374121": {
+                "name": "SHREE RAYESHWAR INSTITUTE OF ENGINEERING AND INFORMATION TECHNOLOY",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7011315312": {
+                "name": "HQ 2 SIGNAL TRAINING CENTRE",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & TELECOMMUNICATION ENGINEERING (TECHNOLOGYNICIAN ELECTRONIC RADIO)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS AND TELECOMMUNICATION ENGINEERING (RADIO AND SYSTEM)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "INFORMATION AND COMMUNICATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "INFORMATION TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014252052": {
+                "name": "GUARDIAN ANGEL INSTITUTE OF HOTEL MANAGEMENT AND CATERING TECHNOLOGY",
+                "course_details": [
+                    {
+                        "programme": "HOTEL MANAGEMENT AND CATERING",
+                        "level": "DIPLOMA",
+                        "course": "HOTEL MANAGEMENT AND CATERING TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014280836": {
+                "name": "PONDA EDUCATION SOCIETYS RAJARAM AND TARABAI BANDEKAR COLLEGE OF PHARMACY",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICAL CHEMISTRY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICS"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014291200": {
+                "name": "GOA COLLEGE OF PHARMACY",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOGNOSY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOLOGY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACY (QUALITY ASSURANCE)"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014323734": {
+                "name": "GOA INSTITUTE OF MANAGEMENT",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "FELLOWSHIP",
+                        "course": "FELLOWSHIP PROGRAMME IN MANAGEMENT"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE DIPLOMA",
+                        "course": "PGDM"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE DIPLOMA",
+                        "course": "PGDM"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE DIPLOMA",
+                        "course": "PGDM(BANKING INSURANCE AND FINANCIAL SERVICE)"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE DIPLOMA",
+                        "course": "PGDM(BIG DATA ANALYTICS)"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE DIPLOMA",
+                        "course": "PGDM(BIG DATA ANALYTICS)"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE DIPLOMA",
+                        "course": "PGDM(HEALTH CARE MANAGEMENT)"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014326446": {
+                "name": "AGNEL INSTITUTE OF FOOD CRAFTS AND CULINARY SCIENCES",
+                "course_details": [
+                    {
+                        "programme": "HOTEL MANAGEMENT AND CATERING",
+                        "level": "DIPLOMA",
+                        "course": "HOTEL MANAGEMENT AND CATERING TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014456340": {
+                "name": "PADRE CONCEICAO COLLEGE OF ENGINEERING",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014481180": {
+                "name": "GOA COLLEGE OF ART",
+                "course_details": [
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "POST GRADUATE",
+                        "course": "FINE ARTS"
+                    },
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "UNDER GRADUATE",
+                        "course": "FINE ARTS"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014481936": {
+                "name": "AGNEL INSTITUTE OF TECHNOLOGY AND DESIGN",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014539146": {
+                "name": "AGNEL POLYTECHNIC",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AUTOMOBILE ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING (CONSTRUCTION TECHNOLOGY)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MEDICAL ELECTRONICS"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7014615701": {
+                "name": "GOVERNMENT POLYTECHNIC CURCHOREM",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7022236820": {
+                "name": "GOVERNMENT POLYTECHNIC PANAJI",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ARCHITECTURE ASSITANTSHIP"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & INSTRUMENTATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "FABRICATION TECHNOLOGY & ERECTION ENGG (SANDWITCH PATTERN)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "FOOD TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "GARMENT TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MODERN OFFICE MANAGEMENT"
+                    }
+                ]
+            }
+        },
+        {
+            "1-7325672051": {
+                "name": "GOA COLLEGE OF ARCHITECTURE",
+                "course_details": [
+                    {
+                        "programme": "ARCHITECTURE AND PLANNING",
+                        "level": "POST GRADUATE",
+                        "course": "M. ARCH IN SUSTAINABLE HABITAT"
+                    },
+                    {
+                        "programme": "ARCHITECTURE AND PLANNING",
+                        "level": "POST GRADUATE",
+                        "course": "M. ARCH IN URBAN DESIGN"
+                    },
+                    {
+                        "programme": "ARCHITECTURE AND PLANNING",
+                        "level": "UNDER GRADUATE",
+                        "course": "ARCHITECTURE"
+                    }
+                ]
+            }
+        }
+    ]
+}
