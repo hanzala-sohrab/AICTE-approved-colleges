@@ -1,82 +1,137 @@
 {
-    "Andaman and Nicobar Islands": [
-        {
-            "GOVERNMENT POLYTECHNIC DIGLIPUR": {
-                "address": "MADHUPUR, DIGLIPUR",
-                "district": "ANDAMANS",
-                "institution_type": "Government",
-                "course_details": [
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "CIVIL ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "COMPUTER SCIENCE & ENGINEERING"
-                    }
-                ]
-            }
+    "Andaman and Nicobar Islands": {
+        "id": {
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`CIVIL ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`COMPUTER ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`ELECTRICAL ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`ELECTRONICS AND COMMUNICATIONS ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`HOTEL MANAGEMENT  &  CATERING TECHNOLOGY": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`INFORMATION TECHNOLOGY": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`DIPLOMA`MECHANICAL ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`UNDER GRADUATE`CIVIL ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`UNDER GRADUATE`COMPUTER SCIENCE & ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`ENGINEERING AND TECHNOLOGY`UNDER GRADUATE`ELECTRONICS & COMMUNICATION ENGG": 1,
+            "MULTIDISCIPLINARY PROFESSIONAL COLLEGE`MANAGEMENT`POST GRADUATE`MASTER IN BUSINESS ADMINISTRATION(GENERAL MANAGEMENT)": 1,
+            "MULTIDISCIPLINARY PROFFESIONAL COLLEGE`ARCHITECTURE`UNDER GRADUATE`ARCHITECTURE": 1,
+            "MULTI DISCIPLINARY PROFESSIONAL COLLEGE`APPLIED ARTS AND CRAFTS`UNDER GRADUATE`FINE ARTS": 1,
+            "GOVERNMENT POLYTECHNIC DIGLIPUR`ENGINEERING AND TECHNOLOGY`DIPLOMA`CIVIL ENGINEERING": 1,
+            "GOVERNMENT POLYTECHNIC DIGLIPUR`ENGINEERING AND TECHNOLOGY`DIPLOMA`COMPUTER SCIENCE & ENGINEERING": 1,
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY`HOTEL MANAGEMENT AND CATERING`DIPLOMA`HOTEL MANAGEMENT  &  CATERING TECHNOLOGY": 1
         },
-        {
-            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY": {
-                "address": "POLYTECHNIC ROAD\r\nPAHAR GAON\r\nPO JUNGLIGHAT",
-                "district": "PORT BLAIR",
-                "institution_type": "Government",
-                "course_details": [
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "CIVIL ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "COMPUTER ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "ELECTRICAL ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "INFORMATION TECHNOLOGY"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "DIPLOMA",
-                        "course": "MECHANICAL ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "UNDER GRADUATE",
-                        "course": "CIVIL ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "UNDER GRADUATE",
-                        "course": "COMPUTER SCIENCE & ENGINEERING"
-                    },
-                    {
-                        "programme": "ENGINEERING AND TECHNOLOGY",
-                        "level": "UNDER GRADUATE",
-                        "course": "ELECTRONICS & COMMUNICATION ENGG"
-                    },
-                    {
-                        "programme": "HOTEL MANAGEMENT AND CATERING",
-                        "level": "DIPLOMA",
-                        "course": "HOTEL MANAGEMENT  &  CATERING TECHNOLOGY"
-                    }
-                ]
-            }
+        "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY": {
+            "address": "POLYTECHNIC ROAD\r\nPAHAR GAON\r\nPO JUNGLIGHAT",
+            "district": "PORT BLAIR",
+            "institution_type": "Government",
+            "course_details": [
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "CIVIL ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "COMPUTER ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "ELECTRICAL ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "HOTEL MANAGEMENT  &  CATERING TECHNOLOGY"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "INFORMATION TECHNOLOGY"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "MECHANICAL ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "UNDER GRADUATE",
+                    "course": "CIVIL ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "UNDER GRADUATE",
+                    "course": "COMPUTER SCIENCE & ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "UNDER GRADUATE",
+                    "course": "ELECTRONICS & COMMUNICATION ENGG"
+                },
+                {
+                    "programme": "HOTEL MANAGEMENT AND CATERING",
+                    "level": "DIPLOMA",
+                    "course": "HOTEL MANAGEMENT  &  CATERING TECHNOLOGY"
+                }
+            ]
+        },
+        "MULTIDISCIPLINARY PROFESSIONAL COLLEGE": {
+            "address": "PHEONIX BAY \r\nSTS BUILDING",
+            "district": "PORT BLAIR",
+            "institution_type": "Government",
+            "course_details": [
+                {
+                    "programme": "MANAGEMENT",
+                    "level": "POST GRADUATE",
+                    "course": "MASTER IN BUSINESS ADMINISTRATION(GENERAL MANAGEMENT)"
+                }
+            ]
+        },
+        "MULTIDISCIPLINARY PROFFESIONAL COLLEGE": {
+            "address": "PHEONIX BAY",
+            "district": "PORT BLAIR",
+            "institution_type": "Government",
+            "course_details": [
+                {
+                    "programme": "ARCHITECTURE",
+                    "level": "UNDER GRADUATE",
+                    "course": "ARCHITECTURE"
+                }
+            ]
+        },
+        "MULTI DISCIPLINARY PROFESSIONAL COLLEGE": {
+            "address": "PHEONIX BAY",
+            "district": "PORT BLAIR",
+            "institution_type": "Government",
+            "course_details": [
+                {
+                    "programme": "APPLIED ARTS AND CRAFTS",
+                    "level": "UNDER GRADUATE",
+                    "course": "FINE ARTS"
+                }
+            ]
+        },
+        "GOVERNMENT POLYTECHNIC DIGLIPUR": {
+            "address": "MADHUPUR, DIGLIPUR",
+            "district": "ANDAMANS",
+            "institution_type": "Government",
+            "course_details": [
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "CIVIL ENGINEERING"
+                },
+                {
+                    "programme": "ENGINEERING AND TECHNOLOGY",
+                    "level": "DIPLOMA",
+                    "course": "COMPUTER SCIENCE & ENGINEERING"
+                }
+            ]
         }
-    ]
+    }
 }
