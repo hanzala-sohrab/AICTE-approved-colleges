@@ -1,1 +1,91 @@
-{"DN": [{"1-7002507398": {"name": "SSR INSTITUTE OF MANAGEMENT & RESEARCH", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7007695171": {"name": "SSR COLLEGE OF PHARMACY", "course_details": [{"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACEUTICS"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACOLOGY"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACY (QUALITY ASSURANCE TECHNIQUES)"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7014573641": {"name": "DR. B.B.A.GOVERNMENT POLYTECHNIC, KARAD(D.P.)", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "INFORMATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "TEXTILE MANUFACTURING TECHNOLOGY"}]}}]}
+{
+    "Dadra and Nagar Haveli": [
+        {
+            "SSR INSTITUTE OF MANAGEMENT & RESEARCH": {
+                "address": "SSR INSTITUTE OF MANAGEMENT &RESEARCH\r\nSAYLI RD,\r\nSILVASSA - 396230,\r\nU.T.O F DADRA & NAGAR HAVELI.",
+                "district": "DADRA AND NAGAR HAVELI",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "SSR COLLEGE OF PHARMACY": {
+                "address": "SSR COLLEGES CAMPUS, SAYLI ROAD, SILVASSA, UT OF DADRA & NAGAR HAVELI.",
+                "district": "DADRA AND NAGAR HAVELI",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICS"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOLOGY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACY (QUALITY ASSURANCE TECHNIQUES)"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "DR. B.B.A.GOVERNMENT POLYTECHNIC, KARAD(D.P.)": {
+                "address": "B/H SUB STATION, MADHUBAN DAM ROAD,VIA RAKHOLI",
+                "district": "DADRA AND NAGAR HAVELI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "TEXTILE MANUFACTURING TECHNOLOGY"
+                    }
+                ]
+            }
+        }
+    ]
+}

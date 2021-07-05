@@ -1,1 +1,324 @@
-{"AR": [{"1-7011606347": {"name": "TOMI POLYTECHNIC COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCEINCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}]}}, {"1-7011608010": {"name": "GOVERNMENT POLYTECHNIC ROING", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}]}}, {"1-7011857521": {"name": "RAJIV GANDHI GOVT POLYTECHNIC", "course_details": [{"programme": "APPLIED ARTS AND CRAFTS", "level": "DIPLOMA", "course": "COSMETOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "AUTOMOBILE ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "GARMENT & FASHION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "HOTEL MANAGEMENT  &  CATERING TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "TRAVEL & TOURISM"}]}}, {"1-7012604713": {"name": "GOVERNMENT POLYTECHNIC PASIGHAT", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}]}}, {"1-7012702548": {"name": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY, ITANAGAR", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}]}}, {"1-7012732544": {"name": "GOVERNMENT POLYTECHNIC LAYING", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7013893080": {"name": "GOVT POLYTECHNIC NAMSAI", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7014045365": {"name": "GOVERNMENT POLYTECHNIC KHONSA", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE AND ENGINEERING"}]}}, {"1-7014103396": {"name": "NORTH EASTERN REGIONAL INSTITUTE OF SCIENCE & TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER INTEGRATED MANUFACTURING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ENVIRONMENTAL SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "FARM MACHINERY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "GEOTECHNICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "INFORMATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "POWER SYSTEMS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "SOIL AND WATER CONSERVATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "THERMAL AND FLUID ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "AGRICULTURE ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7022070532": {"name": "GOVERNMENT POLYTECHNIC DIRANG", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}]}
+{
+    "Arunachal Pradesh": [
+        {
+            "TOMI POLYTECHNIC COLLEGE": {
+                "address": "PO:BASAR\r\nPS:BASAR\r\nDIST:WESTSIANG\r\nSTATE:ARUNACHAL PRADESH\r\nPIN:791101",
+                "district": "WEST SIANG",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCEINCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC ROING": {
+                "address": "PO ROING",
+                "district": "DIBANG VALLEY",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "RAJIV GANDHI GOVT POLYTECHNIC": {
+                "address": "BEHIND DNGC\r\nVIVEK VIHAR",
+                "district": "PAPUM PARE",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "DIPLOMA",
+                        "course": "COSMETOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AUTOMOBILE ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "GARMENT & FASHION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "HOTEL MANAGEMENT  &  CATERING TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "TRAVEL & TOURISM"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC PASIGHAT": {
+                "address": "PO. PASIGHAT",
+                "district": "EAST SIANG",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY, ITANAGAR": {
+                "address": " DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY, \r\nRONO HILLS, DOIMUKH,ITANAGAR",
+                "district": "PAPUM PARE",
+                "institution_type": "Central University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC LAYING": {
+                "address": "LAYING",
+                "district": "LOWER SUBANSIRI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVT POLYTECHNIC NAMSAI": {
+                "address": "VILL JOIPUR,\r\nP.O. NAMSAI",
+                "district": "LOHIT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC KHONSA": {
+                "address": "KHETI VILLAGE\r\nKHONSA TIRAP DIST \r\nARUNACHAL PRADESH-792130",
+                "district": "TIRAP",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "NORTH EASTERN REGIONAL INSTITUTE OF SCIENCE & TECHNOLOGY": {
+                "address": "NERIST;\r\nP.O.NIRJULI\r\nARUNACHAL PRADESH\r\nPIN:791109",
+                "district": "PAPUM PARE",
+                "institution_type": "Deemed to be University(Govt)",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER INTEGRATED MANUFACTURING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ENVIRONMENTAL SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "FARM MACHINERY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "GEOTECHNICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "POWER SYSTEMS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "SOIL AND WATER CONSERVATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "THERMAL AND FLUID ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "AGRICULTURE ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC DIRANG": {
+                "address": "PO DIRANG\r\nWEST KAMENG",
+                "district": "WEST KAMENG",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        }
+    ]
+}

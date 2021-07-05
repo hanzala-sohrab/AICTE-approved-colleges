@@ -1,1 +1,1991 @@
-{"AS": [{"1-4682846711": {"name": "UDALGURI POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "FOOD PROCESSING TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-4682961531": {"name": "CHIRANG POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "AGRICULTURAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}]}}, {"1-4691753691": {"name": "TINSUKIA POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MINING ENGINEERING"}]}}, {"1-4747540911": {"name": "MORIGAON POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MEDICAL  ELECTRONICS ENGINEERING"}]}}, {"1-5037364831": {"name": "GOLAGHAT ENGINEERING COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CHEMICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7001611327": {"name": "CENTRAL INSTITUTE OF TECHNOLOGY KOKRAJHAR", "course_details": [{"programme": "DESIGN", "level": "POST GRADUATE", "course": "DESIGN"}, {"programme": "DESIGN", "level": "POST GRADUATE", "course": "DESIGN"}, {"programme": "DESIGN", "level": "UNDER GRADUATE", "course": "DESIGN"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ANIMATION AND MULTIMEDIA TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CONTROL AND INSTRUMENTATION"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "FOOD PROCESSING TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "AGRICULTURAL SCIENCE AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCEINCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "FOOD ENGINEERING AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "FOOD ENGINEERING AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "GEOTECHNICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "GREEN ENERGY TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "GREEN ENERGY TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "INSTRUMENTATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "INSTRUMENTATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "WATER RESOURCES AND HYDRAULIC ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "WATER RESOURCES AND HYDRAULIC ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ENGINEERING PHYSICS"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "FOOD ENGINEERING AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "FOOD ENGINEERING AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INSTRUMENTATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7001666289": {"name": "RAHMAN INSTITUE  OF PHARMACEUTICAL SCIENCES AND REASERCH", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7001825368": {"name": "THE ASSAM ROYAL GLOBAL UNIVERSITY", "course_details": [{"programme": "ARCHITECTURE AND PLANNING", "level": "UNDER GRADUATE", "course": "ARCHITECTURE"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7002306682": {"name": "GIRIJANANDA CHOWDHURY INSTITUTE OF MANAGEMENT AND TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "THERMAL AND FLUID ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}, {"programme": "MCA", "level": "POST GRADUATE", "course": "MASTERS IN COMPUTER APPLICATIONS"}]}}, {"1-7002572254": {"name": "DEPARTMENT OF PETROLEUM TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "PETROLEUM TECHNOLOGY"}]}}, {"1-7002628815": {"name": "SCHOLAR'S INSTITUTE OF TECHNOLOGY & MANAGEMENT", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7003064286": {"name": "PADMASHREE CHANDRAPRAVA SAIKIANI GIRLS' POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ARCHITECTURAL ASSISTANTSHIP"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MODERN OFFICE MANAGEMENT"}]}}, {"1-7004672903": {"name": "ASSAM ENGINEERING COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CHEMICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INDUSTRIAL AND PRODUCTION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INSTRUMENTATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MCA", "level": "POST GRADUATE", "course": "MASTER OF COMPUTER APPLICATIONS"}]}}, {"1-7004775535": {"name": "BARAK VALLEY ENGINEERING COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7004798611": {"name": "INSTITUTE OF PHARMACY,ASSAM MEDICAL COLLEGE, DIBRUGARH", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}]}}, {"1-7006090341": {"name": "NETES INSTITUTE OF PHARMACEUTICAL SCIENCE", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7009864326": {"name": "PRATIKSHA INSTITUTE  OF PHARMACEUTICAL SCIENCES", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7009911585": {"name": "ASSAM ENGINEERING INSTITUTE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "AUTOMOBILE ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CHEMICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST DIPLOMA", "course": "COMPUTER APPLICATIONS"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHATRONICS"}]}}, {"1-7010065342": {"name": "TEZPUR UNIVERSITY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "BIO ELECTRONICS"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRONICS DESIGN AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ENERGY TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "FOOD ENGINEERING AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "INFORMATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "POLYMER SCIENCE AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "FOOD ENGINEERING AND TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7010373901": {"name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY GUWAHATI", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "HANDLOOM & TEXTILE TECHNOLOGY"}]}}, {"1-7010659296": {"name": "KU SCHOOL OF ENGINEERING TECHNOLOGY AND MANAGEMENT", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA(GENERAL MANAGEMENT)"}]}}, {"1-7010934477": {"name": "CENTRE FOR MANAGEMENT STUDIES", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7011257176": {"name": "BINESWAR BRAHMA ENGINEERING |COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CHEMICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7011735121": {"name": "DIBRUGARH UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "PETROLEUM ENGINEERING"}]}}, {"1-7011739053": {"name": "NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}, {"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7011802379": {"name": "JORHAT ENGINEERING COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "INSTRUMENTATION & CONTROL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCEINCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INSTRUMENTATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MCA", "level": "POST GRADUATE", "course": "MASTER OF COMPUTER APPLICATIONS"}]}}, {"1-7011810187": {"name": "NORTH EAST INSTITUTE OF MANAGEMENT SCIENCE(NEIMS)", "course_details": [{"programme": "HOTEL MANAGEMENT AND CATERING", "level": "UNDER GRADUATE", "course": "HOTEL MANAGEMENT AND CATERING TECHNOLOGY"}]}}, {"1-7011845694": {"name": "SILCHAR POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7011846005": {"name": "CENTRAL INSTITUTE OF PLASTICS ENGINEERING & TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST DIPLOMA", "course": "PLASTIC MOULD DESIGN"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "PLASTIC MOULD TECHNOLOGY (DPMT/PDPMT)"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "PLASTIC TECHNOLOGY (DPT/PDPT)"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST DIPLOMA", "course": "PLASTICS PROCESSING & TESTING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST DIPLOMA", "course": "POST PLASTIC PROCESS & TESTING"}]}}, {"1-7011924710": {"name": "ASSAM TEXTILE INSTITUTE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "FASHION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "GARMENT TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "TEXTILE TECHNOLOGY"}]}}, {"1-7012554601": {"name": "BODOLAND UNIVERSITY", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA(GENERAL MANAGEMENT)"}]}}, {"1-7012578266": {"name": "GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACEUTICAL CHEMISTRY"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACEUTICS"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACOLOGY"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7012583553": {"name": "NALBARI POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "PRINTING TECHNOLOGY"}]}}, {"1-7012610952": {"name": "BARPETA POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "BIOMEDICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7012640180": {"name": "GAUHATI UNIVERSITY INSTITUTE OF SCIENCE AND TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "BIOTECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "INFORMATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "SIGNAL PROCESSING AND COMMUNICATIONS"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "VLSI DESIGN AND SIGNAL PROCESSING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "BIOTECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCEINCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INFORMATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ROBOTICS"}]}}, {"1-7012642792": {"name": "BAKSA POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CHEMICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7012663596": {"name": "DR. BHUPEN HAZARIKA REGIONAL GOVERNMENT FILM AND TELEVISION INSTITUTE", "course_details": [{"programme": "APPLIED ARTS AND CRAFTS", "level": "DIPLOMA", "course": "AUDIOGRAPHY & SOUND ENGINEERING"}, {"programme": "APPLIED ARTS AND CRAFTS", "level": "DIPLOMA", "course": "CINEMATOGRAPHY"}, {"programme": "APPLIED ARTS AND CRAFTS", "level": "DIPLOMA", "course": "FILM & VIDEO EDITING"}, {"programme": "APPLIED ARTS AND CRAFTS", "level": "DIPLOMA", "course": "FINE ARTS"}]}}, {"1-7012663755": {"name": "NOWGONG POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7012702247": {"name": "KAMRUP POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING AUTOMOBILE"}]}}, {"1-7012724394": {"name": "ASSAM DOWN TOWN UNIVERSITY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7012724976": {"name": "DON BOSCO COLLEGE OF ENGINEERING AND TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "MCA", "level": "POST GRADUATE", "course": "MASTERS IN COMPUTER APPLICATIONS"}]}}, {"1-7012729054": {"name": "JORHAT INSTITUTE OF SCIENCE & TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "POWER ELECTRONICS AND INSTRUMENTATION ENGINEERING"}]}}, {"1-7012755554": {"name": "GCC CENTRE OF MANAGEMENT STUDIES", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7012763966": {"name": "DIPHU POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}]}}, {"1-7012789792": {"name": "RESIDENTIAL GIRLS' POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "TEXTILE DESIGN"}]}}, {"1-7012792588": {"name": "ASSAM INSTITUTE OF MANAGEMENT", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7012796496": {"name": "TECHNOLOGY CAMPUS TEZPUR UNIVERSITY", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}, {"programme": "MCA", "level": "POST GRADUATE", "course": "MASTER OF COMPUTER APPLICATIONS"}]}}, {"1-7012819451": {"name": "CENTRE FOR COMPUTER SCIENCE AND APPLICATIONS", "course_details": [{"programme": "MCA", "level": "POST GRADUATE", "course": "MASTER OF COMPUTER APPLICATIONS"}]}}, {"1-7012821364": {"name": "NERIM (NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT) GUWAHATI", "course_details": [{"programme": "MCA", "level": "POST GRADUATE", "course": "MASTERS IN COMPUTER APPLICATIONS"}]}}, {"1-7013773989": {"name": "KARIMGANJ POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "INDUSTRIAL PRODUCTION ENGINEERING"}]}}, {"1-7013796873": {"name": "SIBSAGAR  POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7013796977": {"name": "GOALPARA POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7013800561": {"name": "HRH THE PRINCE OF WALES INSTITUTE OF ENGG. & TECH.,", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "AGRICULTURAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "INSTRUMENTATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING (AUTO)"}]}}, {"1-7013894519": {"name": "BONGAIGAON POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING (AUTO)"}]}}, {"1-7013894803": {"name": "SONITPUR POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7013984131": {"name": "GOLAGHAT POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "BIOMEDICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7013985382": {"name": "LAKHIMPUR POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CHEMICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7014015744": {"name": "DHEMAJI POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7014044836": {"name": "BODOLAND UNIVERSITY", "course_details": [{"programme": "MCA", "level": "POST GRADUATE", "course": "MASTER OF COMPUTER APPLICATIONS"}]}}, {"1-7014071252": {"name": "DON BOSCO INSTITUTE OF MANAGEMENT", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7014135278": {"name": "DIBRUGARH POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7014190692": {"name": "SCHOOL OF ENGINEERING", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "ENERGY ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ENERGY ENGINEERING"}]}}, {"1-7015834129": {"name": "NORTH EASTERN REGIONAL INSTITUTE OF WATER AND LAND MANAGEMENT", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST GRADUATE", "course": "WATER RESOURCE MANAGEMENT"}]}}, {"1-7015922176": {"name": "GIRIJANANDA CHOWDHURY INSTITUTE OF MANAGEMENT AND TECHNOLOGY (GIMT), TEZPUR", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7022075976": {"name": "DEPARTMENT OF PHARMACEUTICAL SCIENCES, DIBRUGARH UNIVERSITY", "course_details": [{"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACEUTICAL CHEMISTRY"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACEUTICS"}, {"programme": "PHARMACY", "level": "POST GRADUATE", "course": "PHARMACOGNOSY"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7347142241": {"name": "GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE TEZPUR", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}, {"programme": "PHARMACY", "level": "UNDER GRADUATE", "course": "PHARMACY"}]}}, {"1-7402669731": {"name": "HAILAKANDI POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}]}}, {"1-7427715951": {"name": "DHEMAJI ENGINEERING COLLEGE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}]}
+{
+    "Assam": [
+        {
+            "UDALGURI POLYTECHNIC": {
+                "address": "BHERGAON CHARIALI, BOGARIBARI, BHERGAON, UDALGURI, BTAD",
+                "district": "UDALGURI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "FOOD PROCESSING TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "CHIRANG POLYTECHNIC": {
+                "address": "1 NO GARGAON,BIJNI,P.O-BIJNI,DIST-CHIRANG.ASSAM",
+                "district": "CHIRANG",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AGRICULTURAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "TINSUKIA POLYTECHNIC": {
+                "address": "37/73 NRL GRANT HUKANPUKHARI, HABEDA PATH MAKUM,",
+                "district": "TINSUKIA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MINING ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "MORIGAON POLYTECHNIC": {
+                "address": "KACHAMARI PATHAR, MORIGAON",
+                "district": "MARIGAON",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MEDICAL  ELECTRONICS ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOLAGHAT ENGINEERING COLLEGE": {
+                "address": "BOGORIJENG, P.O. PULIBOR BIDYAPITH",
+                "district": "GOLAGHAT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CHEMICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "CENTRAL INSTITUTE OF TECHNOLOGY KOKRAJHAR": {
+                "address": "BALAGAON, BODOLAND TERRITORIAL COUNCIL, KOKRAJHAR, ASSAM-783370",
+                "district": "KOKRAJHAR",
+                "institution_type": "Deemed to be University(Govt)",
+                "course_details": [
+                    {
+                        "programme": "DESIGN",
+                        "level": "POST GRADUATE",
+                        "course": "DESIGN"
+                    },
+                    {
+                        "programme": "DESIGN",
+                        "level": "POST GRADUATE",
+                        "course": "DESIGN"
+                    },
+                    {
+                        "programme": "DESIGN",
+                        "level": "UNDER GRADUATE",
+                        "course": "DESIGN"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ANIMATION AND MULTIMEDIA TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CONTROL AND INSTRUMENTATION"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "FOOD PROCESSING TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "AGRICULTURAL SCIENCE AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCEINCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "FOOD ENGINEERING AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "FOOD ENGINEERING AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "GEOTECHNICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "GREEN ENERGY TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "GREEN ENERGY TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INSTRUMENTATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INSTRUMENTATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "WATER RESOURCES AND HYDRAULIC ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "WATER RESOURCES AND HYDRAULIC ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ENGINEERING PHYSICS"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "FOOD ENGINEERING AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "FOOD ENGINEERING AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INSTRUMENTATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "RAHMAN INSTITUE  OF PHARMACEUTICAL SCIENCES AND REASERCH": {
+                "address": "TEPESIA, SONAPUR, KAMRUP(M)",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "THE ASSAM ROYAL GLOBAL UNIVERSITY": {
+                "address": "BETKUCHI, OPP. TIRUPATI BALAJI TEMPLE, NH 37, GUWAHATI 781035",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "State Private University",
+                "course_details": [
+                    {
+                        "programme": "ARCHITECTURE AND PLANNING",
+                        "level": "UNDER GRADUATE",
+                        "course": "ARCHITECTURE"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "GIRIJANANDA CHOWDHURY INSTITUTE OF MANAGEMENT AND TECHNOLOGY": {
+                "address": "HATKHOWAPARA, AZARA, GUWAHATI-781017",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "THERMAL AND FLUID ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    },
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTERS IN COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "DEPARTMENT OF PETROLEUM TECHNOLOGY": {
+                "address": "DI BRUGARH UNIVERSITY\r\nRAJABHETA",
+                "district": "DIBRUGARH",
+                "institution_type": "State Government University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "PETROLEUM TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "SCHOLAR'S INSTITUTE OF TECHNOLOGY & MANAGEMENT": {
+                "address": "VILL GOG, PO: GARCHUK",
+                "district": "KAMRUP",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "PADMASHREE CHANDRAPRAVA SAIKIANI GIRLS' POLYTECHNIC": {
+                "address": "BAMUNIMAIDAN\r\nGUWAHATI-21\r\nKAMRUP\r\nASSAM",
+                "district": "KAMRUP",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ARCHITECTURAL ASSISTANTSHIP"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MODERN OFFICE MANAGEMENT"
+                    }
+                ]
+            }
+        },
+        {
+            "ASSAM ENGINEERING COLLEGE": {
+                "address": "P.O.:- JALUKBARI\r\nDIST:- KAMRUP(METRO)\r\nASSAM",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CHEMICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INDUSTRIAL AND PRODUCTION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INSTRUMENTATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTER OF COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "BARAK VALLEY ENGINEERING COLLEGE": {
+                "address": "OFFICE OF THE PRINCIPAL BARAK VALLEY ENGINEERING COLLEGE, NIRALA, DISTRICT-KARIMGANJ, STATE-ASSAM, PIN-788701, PO- MARJATKANDI",
+                "district": "KARIMGANJ",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "INSTITUTE OF PHARMACY,ASSAM MEDICAL COLLEGE, DIBRUGARH": {
+                "address": "INSTITUTE OF PHARMACY, ASSAM MEDICAL COLLEGE, DIBRUGARH- 786002",
+                "district": "DIBRUGARH",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "NETES INSTITUTE OF PHARMACEUTICAL SCIENCE": {
+                "address": "SHANTIPUR \r\nKAMRUP RURAL\r\nMIRZA \r\nASSAM 781125",
+                "district": "KAMRUP",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "PRATIKSHA INSTITUTE  OF PHARMACEUTICAL SCIENCES": {
+                "address": "CHANDRAPUR ROAD, PANIKHAITI, GUWAHATI- 781026, ASSAM.",
+                "district": "KAMRUP",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "ASSAM ENGINEERING INSTITUTE": {
+                "address": "M.D. ROAD, CHANDMARI, GUWAHATI, ASSAM -781003",
+                "district": "KAMRUP",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AUTOMOBILE ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CHEMICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST DIPLOMA",
+                        "course": "COMPUTER APPLICATIONS"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHATRONICS"
+                    }
+                ]
+            }
+        },
+        {
+            "TEZPUR UNIVERSITY": {
+                "address": "NAPAAM\r\nTEZPUR - 784 028\r\nDISTRICT  :  SONITPUR\r\nASSAM, INDIA",
+                "district": "SONITPUR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "BIO ELECTRONICS"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRONICS DESIGN AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ENERGY TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "FOOD ENGINEERING AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "POLYMER SCIENCE AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "FOOD ENGINEERING AND TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY GUWAHATI": {
+                "address": "NH-37, JAWAHAR NAGAR, KHANAPARA, GUWAHATI-781022",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "HANDLOOM & TEXTILE TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "KU SCHOOL OF ENGINEERING TECHNOLOGY AND MANAGEMENT": {
+                "address": "KORAIKHOWA GAON;\r\nNH-37;\r\nMOUZA-PARBATIA;\r\nDIST-JORHAT",
+                "district": "JORHAT",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA(GENERAL MANAGEMENT)"
+                    }
+                ]
+            }
+        },
+        {
+            "CENTRE FOR MANAGEMENT STUDIES": {
+                "address": "DIBRUGARH UNIVERSITY\r\nNH 37",
+                "district": "DIBRUGARH",
+                "institution_type": "State Government University",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "BINESWAR BRAHMA ENGINEERING |COLLEGE": {
+                "address": "CHANDRAPARA",
+                "district": "KOKRAJHAR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CHEMICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "DIBRUGARH UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY": {
+                "address": "DIBRUGARH UNIVERSITY CAMPUS",
+                "district": "DIBRUGARH",
+                "institution_type": "State Government University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PETROLEUM ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)": {
+                "address": "PADMA NATH SARMAH BHAWAN\r\nJOYANAGAR, KHANAPARA",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "JORHAT ENGINEERING COLLEGE": {
+                "address": "GARMUR\r\nJOORHAT",
+                "district": "JORHAT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INSTRUMENTATION & CONTROL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCEINCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INSTRUMENTATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTER OF COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "NORTH EAST INSTITUTE OF MANAGEMENT SCIENCE(NEIMS)": {
+                "address": "OPP. GATE. NO.1, RRL, JORHAT-6, ASSAM",
+                "district": "JORHAT",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "HOTEL MANAGEMENT AND CATERING",
+                        "level": "UNDER GRADUATE",
+                        "course": "HOTEL MANAGEMENT AND CATERING TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "SILCHAR POLYTECHNIC": {
+                "address": "P.O.- MEHERPUR",
+                "district": "CACHAR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "CENTRAL INSTITUTE OF PLASTICS ENGINEERING & TECHNOLOGY": {
+                "address": "DEPT. OF CHEMICALS & PETROCHEMICALS, \r\nMINISTRY OF CHEMICALS & FERTILIZERS\r\nGOVT. OF INDIA\r\nPO-CHANGSARI",
+                "district": "KAMRUP",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST DIPLOMA",
+                        "course": "PLASTIC MOULD DESIGN"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "PLASTIC MOULD TECHNOLOGY (DPMT/PDPMT)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "PLASTIC TECHNOLOGY (DPT/PDPT)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST DIPLOMA",
+                        "course": "PLASTICS PROCESSING & TESTING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST DIPLOMA",
+                        "course": "POST PLASTIC PROCESS & TESTING"
+                    }
+                ]
+            }
+        },
+        {
+            "ASSAM TEXTILE INSTITUTE": {
+                "address": "GNB ROAD.\r\nAMBARI.",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "FASHION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "GARMENT TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "TEXTILE TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "BODOLAND UNIVERSITY": {
+                "address": "DEBARGAON KOKRAJHAR ASSAM PIN 783370",
+                "district": "KOKRAJHAR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA(GENERAL MANAGEMENT)"
+                    }
+                ]
+            }
+        },
+        {
+            "GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE": {
+                "address": "GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE\r\nAZARA, HATHKHOWAPARA, NH37\r\nGUWAHATI, ASSAM.\r\nPIN:781017",
+                "district": "KAMRUP",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICAL CHEMISTRY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICS"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOLOGY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "NALBARI POLYTECHNIC": {
+                "address": "CHANDKUCHI",
+                "district": "NALBARI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "PRINTING TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "BARPETA POLYTECHNIC": {
+                "address": "GANAKKUCHI",
+                "district": "BARPETA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "BIOMEDICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GAUHATI UNIVERSITY INSTITUTE OF SCIENCE AND TECHNOLOGY": {
+                "address": "INSTITUTE OF SCIENCE AND TECHNOLOGY, GAUHATI UNIVERSITY, GUWAHATI-781014, ASSAM",
+                "district": "KAMRUP",
+                "institution_type": "Govt aided",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "BIOTECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "SIGNAL PROCESSING AND COMMUNICATIONS"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "VLSI DESIGN AND SIGNAL PROCESSING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "BIOTECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCEINCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ROBOTICS"
+                    }
+                ]
+            }
+        },
+        {
+            "BAKSA POLYTECHNIC": {
+                "address": "BELGURI PATHAR\r\nBAKSA",
+                "district": "BAKSA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CHEMICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "DR. BHUPEN HAZARIKA REGIONAL GOVERNMENT FILM AND TELEVISION INSTITUTE": {
+                "address": "SILA, CHANGSARI\nGUWAHATI-781 101",
+                "district": "KAMRUP",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "DIPLOMA",
+                        "course": "AUDIOGRAPHY & SOUND ENGINEERING"
+                    },
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "DIPLOMA",
+                        "course": "CINEMATOGRAPHY"
+                    },
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "DIPLOMA",
+                        "course": "FILM & VIDEO EDITING"
+                    },
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "DIPLOMA",
+                        "course": "FINE ARTS"
+                    }
+                ]
+            }
+        },
+        {
+            "NOWGONG POLYTECHNIC": {
+                "address": "POLY ROAD,\r\nPANIGAON,\r\nNAGAON",
+                "district": "NAGAON",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "KAMRUP POLYTECHNIC": {
+                "address": "BAIHATA CHARIALI, KAMRUP\r\nASSAM",
+                "district": "KAMRUP",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING AUTOMOBILE"
+                    }
+                ]
+            }
+        },
+        {
+            "ASSAM DOWN TOWN UNIVERSITY": {
+                "address": "SANKAR MADHAB PATH, GANDHINAGAR,PANIKHAITI",
+                "district": "KAMRUP",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "DON BOSCO COLLEGE OF ENGINEERING AND TECHNOLOGY": {
+                "address": "AIRPORT ROAD,\r\nAZARA\r\nGUWAHATI \r\n781017",
+                "district": "KAMRUP",
+                "institution_type": "State Private University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTERS IN COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "JORHAT INSTITUTE OF SCIENCE & TECHNOLOGY": {
+                "address": "SATAI, CHENIAMGURI\r\nP.O: CHENIJAN\r\nJORHAT",
+                "district": "JORHAT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "POWER ELECTRONICS AND INSTRUMENTATION ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GCC CENTRE OF MANAGEMENT STUDIES": {
+                "address": "GAUHATI COMMERCE COLLEGE, R.G. BARUAH ROAD",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "DIPHU POLYTECHNIC": {
+                "address": "DIPHU POLYTECHNIC,MENTILA",
+                "district": "KARBI ANGLONG",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "RESIDENTIAL GIRLS' POLYTECHNIC": {
+                "address": "PULIBOR",
+                "district": "GOLAGHAT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & TELE-COMMUNICATION ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "TEXTILE DESIGN"
+                    }
+                ]
+            }
+        },
+        {
+            "ASSAM INSTITUTE OF MANAGEMENT": {
+                "address": "VIGYAN PATH, PACHIM BORAGAON, GUWAHATI. PIN-781035",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "TECHNOLOGY CAMPUS TEZPUR UNIVERSITY": {
+                "address": "NAPAM\r\nTEZPUR-784028\r\nDISTRICT:SONITPUR\r\nASSAM,INDIA",
+                "district": "SONITPUR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    },
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTER OF COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "CENTRE FOR COMPUTER SCIENCE AND APPLICATIONS": {
+                "address": "DIBRUGARH UNIVERSITY,\r\nDIBRUGARH-786004\r\nASSAM",
+                "district": "DIBRUGARH",
+                "institution_type": "State Government University",
+                "course_details": [
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTER OF COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "NERIM (NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT) GUWAHATI": {
+                "address": "PARUKUTTY BHAWAN,\r\nNABIN NAGAR,R.G.BARUAH ROAD,GUWAHATI",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTERS IN COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "KARIMGANJ POLYTECHNIC": {
+                "address": "MAIZGRAM,KARIMGANJ",
+                "district": "KARIMGANJ",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "INDUSTRIAL PRODUCTION ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "SIBSAGAR  POLYTECHNIC": {
+                "address": "SIBSAGAR",
+                "district": "SIBSAGAR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOALPARA POLYTECHNIC": {
+                "address": "GOALPARA EAST\r\nGOALPARA",
+                "district": "GOALPARA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "HRH THE PRINCE OF WALES INSTITUTE OF ENGG. & TECH.,": {
+                "address": "GAR ALI, JORHAT",
+                "district": "JORHAT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AGRICULTURAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "INSTRUMENTATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING (AUTO)"
+                    }
+                ]
+            }
+        },
+        {
+            "BONGAIGAON POLYTECHNIC": {
+                "address": "BARSHAN GAON\r\nBONGAIGAON\r\nASSAM",
+                "district": "BONGAIGAON",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING (AUTO)"
+                    }
+                ]
+            }
+        },
+        {
+            "SONITPUR POLYTECHNIC": {
+                "address": "DHEKIAJULI",
+                "district": "SONITPUR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOLAGHAT POLYTECHNIC": {
+                "address": "FURKATING",
+                "district": "GOLAGHAT",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "BIOMEDICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "LAKHIMPUR POLYTECHNIC": {
+                "address": "BIHPURIA",
+                "district": "LAKHIMPUR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CHEMICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "DHEMAJI POLYTECHNIC": {
+                "address": "SILAPATHAR,\r\nDIST : DHEMAJI,\r\nPIN: 787058,\r\nASSAM.",
+                "district": "DHEMAJI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "BODOLAND UNIVERSITY": {
+                "address": "RANGALIKHATA, PO:- DEBARGAON\r\nDIST: KOKRAJHAR",
+                "district": "KOKRAJHAR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTER OF COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "DON BOSCO INSTITUTE OF MANAGEMENT": {
+                "address": "JOYPUR, KHARGHULI",
+                "district": "KAMRUP",
+                "institution_type": "State Private University",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "DIBRUGARH POLYTECHNIC": {
+                "address": "LAHOWAL\r\nDIBRUGARH",
+                "district": "DIBRUGARH",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "SCHOOL OF ENGINEERING": {
+                "address": "TETELIA ROAD,JALUKBARI,GUWAHATI,ASSAM,PIN CODE-781013",
+                "district": "KAMRUP METROPOLITAN",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "ENERGY ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ENERGY ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "NORTH EASTERN REGIONAL INSTITUTE OF WATER AND LAND MANAGEMENT": {
+                "address": "DOLABARI, P.O. KALIABHOMORA , TEZPUR-784027 , ASSAM",
+                "district": "SONITPUR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST GRADUATE",
+                        "course": "WATER RESOURCE MANAGEMENT"
+                    }
+                ]
+            }
+        },
+        {
+            "GIRIJANANDA CHOWDHURY INSTITUTE OF MANAGEMENT AND TECHNOLOGY (GIMT), TEZPUR": {
+                "address": "VILL : DEKACHUBURI AND KUNDABOURI\r\nMOUZA : HALLESWAR\r\nP.O.: TEZPUR\r\nDIST : SONITPUR\r\nSTATE : ASSAM\r\nPIN : 784001",
+                "district": "SONITPUR",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "DEPARTMENT OF PHARMACEUTICAL SCIENCES, DIBRUGARH UNIVERSITY": {
+                "address": "DEPARTMENT OF PHARMACEUTICAL SCIENCES, DIBRUGARH UNIVERSITY, DIBRUGARH-786004, ASSAM",
+                "district": "DIBRUGARH",
+                "institution_type": "State Government University",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICAL CHEMISTRY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACEUTICS"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "POST GRADUATE",
+                        "course": "PHARMACOGNOSY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE TEZPUR": {
+                "address": "DEKARGAON KUNDERBOURI ROAD",
+                "district": "SONITPUR",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    },
+                    {
+                        "programme": "PHARMACY",
+                        "level": "UNDER GRADUATE",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "HAILAKANDI POLYTECHNIC": {
+                "address": "LATAKANDI APPIN GRANT",
+                "district": "HAILAKANDI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "DHEMAJI ENGINEERING COLLEGE": {
+                "address": "DHEMAJI",
+                "district": "DHEMAJI",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        }
+    ]
+}

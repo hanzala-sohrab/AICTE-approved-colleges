@@ -54,26 +54,27 @@ def get_college_details(aicteid):
 for state in states:
     records = get_colleges(state=states[state])
     filename = f"{state}.json"
-    data = {state: []}
+    data = {states[state]: []}
     if records:
         for record in records:
             aicte_id = record[0]
             college_details = get_college_details(aicteid=aicte_id)
             college = {
-                aicte_id: {
-                    "name": "",
+                record[1]: {
+                    "address": record[2],
+                    "district": record[3],
+                    "institution_type": record[4],
                     "course_details": []
                 }
             }
-            college[aicte_id]['name'] = record[1]
             for course in college_details:
                 course_details = {}
                 course_details['programme'] = course[3]
                 course_details['level'] = course[5]
                 course_details['course'] = course[6]
-                college[aicte_id]['course_details'].append(course_details)
+                college[record[1]]['course_details'].append(course_details)
             print(college)
-            data[state].append(college)
+            data[states[state]].append(college)
         
     with open(filename, "w") as f:
         f.write(json.dumps(data))

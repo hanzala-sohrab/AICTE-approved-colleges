@@ -1,8 +1,10 @@
 {
-    "SK": [
+    "Sikkim": [
         {
-            "1-7001717563": {
-                "name": "SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY",
+            "SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY": {
+                "address": "MAJITAR, RANGPO, EAST SIKKIM , PIN-737136",
+                "district": "EAST SIKKIM",
+                "institution_type": "State Private University",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -63,8 +65,10 @@
             }
         },
         {
-            "1-7009755604": {
-                "name": "SIKKIM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+            "SIKKIM INSTITUTE OF SCIENCE AND TECHNOLOGY": {
+                "address": "CHISOPANI, SOUTH SIKKIM",
+                "district": "EAST SIKKIM",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -80,8 +84,10 @@
             }
         },
         {
-            "1-7010743735": {
-                "name": "GOVERNMENT PHARMACY COLLEGE",
+            "GOVERNMENT PHARMACY COLLEGE": {
+                "address": "SAJONG RUMTEK",
+                "district": "EAST SIKKIM",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "PHARMACY",
@@ -92,8 +98,10 @@
             }
         },
         {
-            "1-7011677817": {
-                "name": "CENTRE FOR COMPUTERS AND COMMUNICATION TECHNOLOGY (CCCT)",
+            "CENTRE FOR COMPUTERS AND COMMUNICATION TECHNOLOGY (CCCT)": {
+                "address": "CHISOPANI,\r\nPO NANDUGAON,\r\nSOUTH SIKKIM",
+                "district": "SOUTH SIKKIM",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -124,8 +132,10 @@
             }
         },
         {
-            "1-7012581074": {
-                "name": "ADVANCED TECHNICAL TRAINING CENTRE",
+            "ADVANCED TECHNICAL TRAINING CENTRE": {
+                "address": "NH 31A,BARDANG",
+                "district": "EAST SIKKIM",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -156,8 +166,10 @@
             }
         },
         {
-            "1-7013892721": {
-                "name": "HIMALAYAN PHARMACY INSTITUTE",
+            "HIMALAYAN PHARMACY INSTITUTE": {
+                "address": "MAJHITAR, EAST SIKKIM, PIN-737136",
+                "district": "EAST SIKKIM",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "PHARMACY",

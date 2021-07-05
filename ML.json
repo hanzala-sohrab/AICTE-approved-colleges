@@ -1,1 +1,182 @@
-{"ML": [{"1-7003155460": {"name": "REGIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE AND ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7010371757": {"name": "ST. ANTHONYT'S COLLEGE, SHILLONG", "course_details": [{"programme": "MCA", "level": "POST GRADUATE", "course": "MASTERS IN COMPUTER APPLICATIONS"}]}}, {"1-7011734766": {"name": "SHILLONG POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE & ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "POST DIPLOMA", "course": "INFORMATION TECHNOLOGY"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7011788567": {"name": "TURA POLYTECHNIC", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER APPLICATIONS"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "FOOD PROCESSING & PRESERVATION"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MEDICAL ELECTRONICS"}]}}, {"1-7012664274": {"name": "JOWAI POLYTECHNIC", "course_details": [{"programme": "APPLIED ARTS AND CRAFTS", "level": "DIPLOMA", "course": "COSTUME DESIGN & GARMENT TECHNOLOGY"}, {"programme": "ARCHITECTURE AND PLANNING", "level": "DIPLOMA", "course": "ARCHITECTURE ASSISTANTSHIP"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "AUTOMOBILE ENGINEERING"}]}}, {"1-7012669007": {"name": "SCHOOL OF BUSINESS SCIENCES", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7968415401": {"name": "SCHOOL OF TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "BIOMEDICAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ENERGY ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INFORMATION TECHNOLOGY"}]}}]}
+{
+    "Meghalaya": [
+        {
+            "REGIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY": {
+                "address": " BARIDUWA, RAID MARWET, KILLING ROAD, 9TH MILE, RI-BHOI, MEGHALAYA",
+                "district": "RI BHOI",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "ST. ANTHONYT'S COLLEGE, SHILLONG": {
+                "address": "BOMFYLE ROAD,\r\nSHILLONG 793001\r\nMEGHALAYA",
+                "district": "EAST KHASI HILLS",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "MCA",
+                        "level": "POST GRADUATE",
+                        "course": "MASTERS IN COMPUTER APPLICATIONS"
+                    }
+                ]
+            }
+        },
+        {
+            "SHILLONG POLYTECHNIC": {
+                "address": "MAWLAI KYNTON MASSAR, MAWLAI, SHILLONG, MEGHALAYA",
+                "district": "EAST KHASI HILLS",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE & ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "POST DIPLOMA",
+                        "course": "INFORMATION TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "TURA POLYTECHNIC": {
+                "address": "CHERANGRE,NR. TURA PUBLIC SCHOOL",
+                "district": "WEST GARO HILLS",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER APPLICATIONS"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "FOOD PROCESSING & PRESERVATION"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MEDICAL ELECTRONICS"
+                    }
+                ]
+            }
+        },
+        {
+            "JOWAI POLYTECHNIC": {
+                "address": "LADTHALABOH,\r\nNEAR KIANG NANGBAH GOVT COLLEGE",
+                "district": "JAINTIA HILLS",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "APPLIED ARTS AND CRAFTS",
+                        "level": "DIPLOMA",
+                        "course": "COSTUME DESIGN & GARMENT TECHNOLOGY"
+                    },
+                    {
+                        "programme": "ARCHITECTURE AND PLANNING",
+                        "level": "DIPLOMA",
+                        "course": "ARCHITECTURE ASSISTANTSHIP"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AUTOMOBILE ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "SCHOOL OF BUSINESS SCIENCES": {
+                "address": "UNIVERSITY OF SCIENCE & TECHNOLOGY, TECHNO-CITY, KILLING ROAD, 9TH MILE,",
+                "district": "RI BHOI",
+                "institution_type": "Private-Self Financing",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "SCHOOL OF TECHNOLOGY": {
+                "address": "MAWKYNROH-UMSHING\r\nMAWLAI",
+                "district": "EAST KHASI HILLS",
+                "institution_type": "Central University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "BIOMEDICAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ENERGY ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    }
+                ]
+            }
+        }
+    ]
+}

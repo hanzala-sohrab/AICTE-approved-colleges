@@ -1,8 +1,10 @@
 {
-    "GA": [
+    "Goa": [
         {
-            "1-7003786958": {
-                "name": "GOVERNMENT POLYTECHNIC MAYEM BICHOLIM",
+            "GOVERNMENT POLYTECHNIC MAYEM BICHOLIM": {
+                "address": "MAYEM BICHOLIM GOA",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -28,8 +30,10 @@
             }
         },
         {
-            "1-7006364088": {
-                "name": "DON BOSCO COLLEGE OF ENGINEERING",
+            "DON BOSCO COLLEGE OF ENGINEERING": {
+                "address": "DON BOSCO,\r\nFATORDA,",
+                "district": "SOUTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -55,8 +59,10 @@
             }
         },
         {
-            "1-7006458223": {
-                "name": "INSTITUTE OF SHIPBUILDING TECHNOLOGY",
+            "INSTITUTE OF SHIPBUILDING TECHNOLOGY": {
+                "address": "BOGDA, VASCO-DA-GAMA, GOA 403802",
+                "district": "SOUTH GOA",
+                "institution_type": "Govt aided",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -77,8 +83,10 @@
             }
         },
         {
-            "1-7006524807": {
-                "name": "GOA COLLEGE OF ENGINEERING (GOVERNMENT OF GOA)",
+            "GOA COLLEGE OF ENGINEERING (GOVERNMENT OF GOA)": {
+                "address": "FARMAGUDI, PONDA-GOA\r\nPIN-403401",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -164,8 +172,10 @@
             }
         },
         {
-            "1-7010374121": {
-                "name": "SHREE RAYESHWAR INSTITUTE OF ENGINEERING AND INFORMATION TECHNOLOY",
+            "SHREE RAYESHWAR INSTITUTE OF ENGINEERING AND INFORMATION TECHNOLOY": {
+                "address": "SHIV SHAIL, KARAI, SHIRODA, GOA 403103",
+                "district": "NORTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -191,8 +201,10 @@
             }
         },
         {
-            "1-7011315312": {
-                "name": "HQ 2 SIGNAL TRAINING CENTRE",
+            "HQ 2 SIGNAL TRAINING CENTRE": {
+                "address": "C/O 56 APO",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -223,8 +235,10 @@
             }
         },
         {
-            "1-7014252052": {
-                "name": "GUARDIAN ANGEL INSTITUTE OF HOTEL MANAGEMENT AND CATERING TECHNOLOGY",
+            "GUARDIAN ANGEL INSTITUTE OF HOTEL MANAGEMENT AND CATERING TECHNOLOGY": {
+                "address": "GUARDIAN ANGEL EDUCATIONAL COMPLEX",
+                "district": "SOUTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "HOTEL MANAGEMENT AND CATERING",
@@ -235,8 +249,10 @@
             }
         },
         {
-            "1-7014280836": {
-                "name": "PONDA EDUCATION SOCIETYS RAJARAM AND TARABAI BANDEKAR COLLEGE OF PHARMACY",
+            "PONDA EDUCATION SOCIETYS RAJARAM AND TARABAI BANDEKAR COLLEGE OF PHARMACY": {
+                "address": "PONDA-PANAJI ROAD, FARMAGUDI, PONDA. GOA-403401",
+                "district": "SOUTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "PHARMACY",
@@ -257,8 +273,10 @@
             }
         },
         {
-            "1-7014291200": {
-                "name": "GOA COLLEGE OF PHARMACY",
+            "GOA COLLEGE OF PHARMACY": {
+                "address": "18TH JUNE ROAD,PANAJI-GOA",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "PHARMACY",
@@ -289,8 +307,10 @@
             }
         },
         {
-            "1-7014323734": {
-                "name": "GOA INSTITUTE OF MANAGEMENT",
+            "GOA INSTITUTE OF MANAGEMENT": {
+                "address": "SANQUELIM",
+                "district": "NORTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "MANAGEMENT",
@@ -331,8 +351,10 @@
             }
         },
         {
-            "1-7014326446": {
-                "name": "AGNEL INSTITUTE OF FOOD CRAFTS AND CULINARY SCIENCES",
+            "AGNEL INSTITUTE OF FOOD CRAFTS AND CULINARY SCIENCES": {
+                "address": "AGNEL TECHNICAL EDUCATION COMPLEX\r\nAGNEL ASHRAM\r\nVERNA",
+                "district": "SOUTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "HOTEL MANAGEMENT AND CATERING",
@@ -343,8 +365,10 @@
             }
         },
         {
-            "1-7014456340": {
-                "name": "PADRE CONCEICAO COLLEGE OF ENGINEERING",
+            "PADRE CONCEICAO COLLEGE OF ENGINEERING": {
+                "address": "AGNEL GANV, VERNA, GOA - 403722",
+                "district": "SOUTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -375,8 +399,10 @@
             }
         },
         {
-            "1-7014481180": {
-                "name": "GOA COLLEGE OF ART",
+            "GOA COLLEGE OF ART": {
+                "address": "ALTINHO,\r\nPANAJI - GOA\r\n403 001",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "APPLIED ARTS AND CRAFTS",
@@ -392,8 +418,10 @@
             }
         },
         {
-            "1-7014481936": {
-                "name": "AGNEL INSTITUTE OF TECHNOLOGY AND DESIGN",
+            "AGNEL INSTITUTE OF TECHNOLOGY AND DESIGN": {
+                "address": "ASSAGAO,\r\nBARDEZ,\r\nGOA.",
+                "district": "NORTH GOA",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -414,8 +442,10 @@
             }
         },
         {
-            "1-7014539146": {
-                "name": "AGNEL POLYTECHNIC",
+            "AGNEL POLYTECHNIC": {
+                "address": "AGNEL TECHNICAL EDUCATION COMPLEX",
+                "district": "SOUTH GOA",
+                "institution_type": "Govt aided",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -456,8 +486,10 @@
             }
         },
         {
-            "1-7014615701": {
-                "name": "GOVERNMENT POLYTECHNIC CURCHOREM",
+            "GOVERNMENT POLYTECHNIC CURCHOREM": {
+                "address": "OPP. KAKODA INDUSTRIAL ESTATE",
+                "district": "SOUTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -478,8 +510,10 @@
             }
         },
         {
-            "1-7022236820": {
-                "name": "GOVERNMENT POLYTECHNIC PANAJI",
+            "GOVERNMENT POLYTECHNIC PANAJI": {
+                "address": "ALTINHO PANAJI GOA 403001",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -540,8 +574,10 @@
             }
         },
         {
-            "1-7325672051": {
-                "name": "GOA COLLEGE OF ARCHITECTURE",
+            "GOA COLLEGE OF ARCHITECTURE": {
+                "address": "DR. T. B. CUNHA EDUCATIONAL COMPLEX, ALTINHO",
+                "district": "NORTH GOA",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ARCHITECTURE AND PLANNING",

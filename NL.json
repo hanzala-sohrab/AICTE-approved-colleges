@@ -1,1 +1,217 @@
-{"NL": [{"1-7010620651": {"name": "GOVERNMENT POLYTECHNIC SEITHEKEMA C", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}]}}, {"1-7010739458": {"name": "GOVERNMENT POLYTECHNIC TSUNAZHO CHETHEBA", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}]}}, {"1-7010742672": {"name": "GOVERNMENT POLYTECHNIC SEDEM", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}]}}, {"1-7011074016": {"name": "ST. JOSEPH UNIVERSITY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "CIVIL ENGINEERING"}]}}, {"1-7011753066": {"name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE AND ENGINEERING"}]}}, {"1-7012607281": {"name": "SCHOOL OF ENGINEERING AND TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "AGRICULTURAL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "COMPUTER SCIENCE"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "ELECTRONICS & COMMUNICATION ENGG(INDUSTRY INTEGRATED)"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "UNDER GRADUATE", "course": "INFORMATION TECHNOLOGY"}]}}, {"1-7012733619": {"name": "PARA MEDICAL TRAINING INSTITUTE", "course_details": [{"programme": "PHARMACY", "level": "DIPLOMA", "course": "PHARMACY"}]}}, {"1-7013857393": {"name": "SCHOOL OF MANAGEMENT STUDIES, NAGALAND UNIVERSITY", "course_details": [{"programme": "MANAGEMENT", "level": "POST GRADUATE", "course": "MBA"}]}}, {"1-7013947217": {"name": "GOVERNMENT POLYTECHNIC KOHIMA", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER SCIENCE AND ENGINEERING"}]}}, {"1-7014166898": {"name": "KHELHOSHE POLYTECHNIC ATOIZU", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "AUTOMOBILE ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "CIVIL ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "MECHANICAL ENGINEERING"}]}}, {"1-7014189437": {"name": "INSTITUTE OF COMMUNICATION AND INFORMATION TECHNOLOGY", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "COMPUTER ENGINEERING"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "ELECTRONICS & COMMUNICATION ENGG"}, {"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "INFORMATION TECHNOLOGY"}]}}, {"1-7014350363": {"name": "NAGALAND TOOL ROOM & TRAINING CENTRE", "course_details": [{"programme": "ENGINEERING AND TECHNOLOGY", "level": "DIPLOMA", "course": "TOOL & DIE MAKING"}]}}]}
+{
+    "Nagaland": [
+        {
+            "GOVERNMENT POLYTECHNIC SEITHEKEMA C": {
+                "address": "GOVERNMENT POLYTECHNIC SEITHEKEMA-C, DIMAPUR\n797103",
+                "district": "DIMAPUR",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC TSUNAZHO CHETHEBA": {
+                "address": "GOVERNMENT POLYTECHNIC TSUNAZHO, CHETHEBA, PHEK,\n797108",
+                "district": "PHEK",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC SEDEM": {
+                "address": "GOVERNMENT POLYTECHNIC SEDEM\nTUENSANG",
+                "district": "TUENSANG",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "ST. JOSEPH UNIVERSITY": {
+                "address": "VIRGIN TOWN, IKISHE  VILLAGE",
+                "district": "DIMAPUR",
+                "institution_type": "State Private University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "CIVIL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY": {
+                "address": "MERIEMA, NEW HIGH COURT ROAD, POST BOX NO.733, KOHIMA",
+                "district": "KOHIMA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "SCHOOL OF ENGINEERING AND TECHNOLOGY": {
+                "address": "D C COURT JUNCTION, DIMAPUR, NAGALAND, PIN 797112",
+                "district": "DIMAPUR",
+                "institution_type": "Central University",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "AGRICULTURAL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "COMPUTER SCIENCE"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG(INDUSTRY INTEGRATED)"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "UNDER GRADUATE",
+                        "course": "INFORMATION TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "PARA MEDICAL TRAINING INSTITUTE": {
+                "address": "PARA MEDICAL TRAINING INSTITUTE, MERHULIETSA COLONY",
+                "district": "KOHIMA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "PHARMACY",
+                        "level": "DIPLOMA",
+                        "course": "PHARMACY"
+                    }
+                ]
+            }
+        },
+        {
+            "SCHOOL OF MANAGEMENT STUDIES, NAGALAND UNIVERSITY": {
+                "address": "D C COURT JUNCTION\r\nDIMAPUR",
+                "district": "DIMAPUR",
+                "institution_type": "Central University",
+                "course_details": [
+                    {
+                        "programme": "MANAGEMENT",
+                        "level": "POST GRADUATE",
+                        "course": "MBA"
+                    }
+                ]
+            }
+        },
+        {
+            "GOVERNMENT POLYTECHNIC KOHIMA": {
+                "address": "GOVERNMENT POLYTECHNIC KOHIMA,\r\nNEAR I.G STADIUM,\r\nKOHIMA, \r\nNAGALAND 797001",
+                "district": "KOHIMA",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER SCIENCE AND ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "KHELHOSHE POLYTECHNIC ATOIZU": {
+                "address": "KHELHOSHE POLYTECHNIC ATOIZU : ZUNHEBOTO: NAGALAND",
+                "district": "ZUNHEBOTO",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "AUTOMOBILE ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "CIVIL ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "MECHANICAL ENGINEERING"
+                    }
+                ]
+            }
+        },
+        {
+            "INSTITUTE OF COMMUNICATION AND INFORMATION TECHNOLOGY": {
+                "address": "INSTITUTE OF COMMUNICATION & INFORMATION TECHNOLOGY\r\nMOKOKCHUNG: NAGALAND 798601 POST BOX-131",
+                "district": "MOKOKCHUNG",
+                "institution_type": "Government",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "COMPUTER ENGINEERING"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "ELECTRONICS & COMMUNICATION ENGG"
+                    },
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "INFORMATION TECHNOLOGY"
+                    }
+                ]
+            }
+        },
+        {
+            "NAGALAND TOOL ROOM & TRAINING CENTRE": {
+                "address": "NAGALAND TOOL ROOM & TRAINING CENTRE, NEW INDUSTRIAL, NEAR SUB-JAIL JUNCTION, TINALI, NH-36, DIMAPUR, NAGALAND\r\n797112",
+                "district": "DIMAPUR",
+                "institution_type": "Govt aided",
+                "course_details": [
+                    {
+                        "programme": "ENGINEERING AND TECHNOLOGY",
+                        "level": "DIPLOMA",
+                        "course": "TOOL & DIE MAKING"
+                    }
+                ]
+            }
+        }
+    ]
+}

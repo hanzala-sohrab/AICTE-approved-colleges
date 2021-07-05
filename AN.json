@@ -1,8 +1,10 @@
 {
-    "AN": [
+    "Andaman and Nicobar Islands": [
         {
-            "1-7010447708": {
-                "name": "GOVERNMENT POLYTECHNIC DIGLIPUR",
+            "GOVERNMENT POLYTECHNIC DIGLIPUR": {
+                "address": "MADHUPUR, DIGLIPUR",
+                "district": "ANDAMANS",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -18,8 +20,10 @@
             }
         },
         {
-            "1-7014013327": {
-                "name": "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY",
+            "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY": {
+                "address": "POLYTECHNIC ROAD\r\nPAHAR GAON\r\nPO JUNGLIGHAT",
+                "district": "PORT BLAIR",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",

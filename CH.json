@@ -1,8 +1,10 @@
 {
-    "CG": [
+    "Chandigarh": [
         {
-            "1-7003531561": {
-                "name": "UNIVERSITY INSTITUTE OF PHARMACEUTICAL SCIENCES",
+            "UNIVERSITY INSTITUTE OF PHARMACEUTICAL SCIENCES": {
+                "address": "PANJAB UNIVERSITY, CHANDIGARH 160014",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "PHARMACY",
@@ -33,8 +35,10 @@
             }
         },
         {
-            "1-7003877269": {
-                "name": "INDO-SWISS TRAINING CENTRE",
+            "INDO-SWISS TRAINING CENTRE": {
+                "address": "CENTRAL SCIENTIFIC INSTRUMENT ORGANISATION, SECTOR 30",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -60,8 +64,10 @@
             }
         },
         {
-            "1-7004737529": {
-                "name": "PML SD BUSINESS SCHOOL",
+            "PML SD BUSINESS SCHOOL": {
+                "address": "SECTOR-32C, CHANDIGARH-160030",
+                "district": "CHANDIGARH",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "MANAGEMENT",
@@ -72,8 +78,10 @@
             }
         },
         {
-            "1-7004898584": {
-                "name": "PUNJAB ENGINEERING COLLEGE DEEMED TO BE UNIVERSITY",
+            "PUNJAB ENGINEERING COLLEGE DEEMED TO BE UNIVERSITY": {
+                "address": "PEC UNIVERSITY OF TECHNOLOGY\r\nSECTOR 12\r\nCHANDIGARH",
+                "district": "CHANDIGARH",
+                "institution_type": "Deemed to be University(Govt)",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -184,8 +192,10 @@
             }
         },
         {
-            "1-7005760984": {
-                "name": "INSTITUTE OF MANAGEMNT",
+            "INSTITUTE OF MANAGEMNT": {
+                "address": "C/O DAV COLLEGE SECTOR 10 CHANDIGARH",
+                "district": "CHANDIGARH",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "MANAGEMENT",
@@ -196,8 +206,10 @@
             }
         },
         {
-            "1-7008562768": {
-                "name": "GOVERNMENT COLLEGE OF ART",
+            "GOVERNMENT COLLEGE OF ART": {
+                "address": "SECTOR 10C",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "APPLIED ARTS AND CRAFTS",
@@ -223,8 +235,10 @@
             }
         },
         {
-            "1-7010390844": {
-                "name": "UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+            "UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY": {
+                "address": "UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY\r\nSOUTH CAMPUS, SECTOR 25,\r\nPANJAB UNIVERSITY, CHANDIGARH.",
+                "district": "CHANDIGARH",
+                "institution_type": "State Government University",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -285,8 +299,10 @@
             }
         },
         {
-            "1-7010394413": {
-                "name": "DR.S.S. BHATNAGAR UNIVERSITY INSTITUTE OF CHEMICAL ENGG. & TECH., PANJAB UNIVERSITY, CHANDIGARH.",
+            "DR.S.S. BHATNAGAR UNIVERSITY INSTITUTE OF CHEMICAL ENGG. & TECH., PANJAB UNIVERSITY, CHANDIGARH.": {
+                "address": "PANJAB UNIVERSITY, SECTOR 14",
+                "district": "CHANDIGARH",
+                "institution_type": "State Government University",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -312,8 +328,10 @@
             }
         },
         {
-            "1-7010790641": {
-                "name": "NATIONAL INSTITUTION OF TECHNICAL TEACHERS\u00e2\u0080\u0099 TRAINING & RESEARCH",
+            "NATIONAL INSTITUTION OF TECHNICAL TEACHERS\u00e2\u0080\u0099 TRAINING & RESEARCH": {
+                "address": "NATIONAL INSTITUTION OF TECHNICAL TEACHERS\u00e2\u0080\u0099 TRAINING & RESEARCH, SECTOR \u00e2\u0080\u0093 26, CHANDIGARH \u00e2\u0080\u0093 160 019 \r\n(FULLY FINANCED BY DEPARTMENT OF HIGHER EDUCATION, MINISTRY OF HUMAN RESOURCE DEVELOPMENT, GOVT. OF INDIA)",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -384,8 +402,10 @@
             }
         },
         {
-            "1-7010917400": {
-                "name": "CHANDIGARH COLLEGE OF ARCHITECTURE",
+            "CHANDIGARH COLLEGE OF ARCHITECTURE": {
+                "address": "SECTOR 12",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ARCHITECTURE AND PLANNING",
@@ -401,8 +421,10 @@
             }
         },
         {
-            "1-7013024241": {
-                "name": "REGIONAL INSTITUTE OF COOPERATIVE MANAGEMENT",
+            "REGIONAL INSTITUTE OF COOPERATIVE MANAGEMENT": {
+                "address": "SECTOR 32-C, CHANDIGARH",
+                "district": "CHANDIGARH",
+                "institution_type": "Govt aided",
                 "course_details": [
                     {
                         "programme": "MANAGEMENT",
@@ -413,8 +435,10 @@
             }
         },
         {
-            "1-7013083501": {
-                "name": "GOVT.POLYTECHNIC FOR WOMEN",
+            "GOVT.POLYTECHNIC FOR WOMEN": {
+                "address": "GOVT. POLYTECHNIC FOR WOMEN, SEC 10-D,CHANDIGARH",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ARCHITECTURE AND PLANNING",
@@ -455,8 +479,10 @@
             }
         },
         {
-            "1-7013147977": {
-                "name": "CHANDIGARH COLLEGE OF ENGG. & TECH. (DIPLOMA WING), CHANDIGARH",
+            "CHANDIGARH COLLEGE OF ENGG. & TECH. (DIPLOMA WING), CHANDIGARH": {
+                "address": "CCET (DIPLOMA WING), SECTOR-26, CHANDIGARH",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ARCHITECTURE AND PLANNING",
@@ -512,8 +538,10 @@
             }
         },
         {
-            "1-7013203689": {
-                "name": "SRI GURU GOBIND SINGH COLLEGE OF PHARMACY",
+            "SRI GURU GOBIND SINGH COLLEGE OF PHARMACY": {
+                "address": "SECTOR 26",
+                "district": "CHANDIGARH",
+                "institution_type": "Private-Self Financing",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -529,8 +557,10 @@
             }
         },
         {
-            "1-7013241164": {
-                "name": "CHANDIGARH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+            "CHANDIGARH COLLEGE OF ENGINEERING AND TECHNOLOGY": {
+                "address": "CHANDIGARH COLLEGE OF ENGINEERING AND TECHNOLOGY\r\nSECTOR-26\r\nCHANDIGARH-160019\r\nWWW.CCET.AC.IN",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
@@ -561,8 +591,10 @@
             }
         },
         {
-            "1-7013327965": {
-                "name": "PANJAB UNIVERSITY",
+            "PANJAB UNIVERSITY": {
+                "address": "UCIM (UNIVERSITY CENTRE FOR INSTRUMENTATION AND MICROELECTRONICS),\r\nPANJAB UNIVERSITY,\r\nCHANDIGARH.",
+                "district": "CHANDIGARH",
+                "institution_type": "Government",
                 "course_details": [
                     {
                         "programme": "ENGINEERING AND TECHNOLOGY",
