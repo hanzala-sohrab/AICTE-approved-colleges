@@ -1,7 +1,8 @@
-import requests, urllib, json, os, time
+import requests, urllib, json
+# import os
 
-duration = 0.1
-freq = 500
+# duration = 0.1
+# freq = 500
 
 states = {
     "AN":"Andaman and Nicobar Islands",
@@ -44,25 +45,23 @@ states = {
 }
 
 years = [
-    "2014-2015",
     "2015-2016",
     "2016-2017",
     "2017-2018",
     "2018-2019",
     "2019-2020",
-    "2020-2021"
+    "2020-2021",
+    "2014-2015"
 ]
 
 def get_colleges(state, program=1, method="fetchdata", year="2020-2021", level=1, institutiontype=1, Women=1, Minority=1, course=1):
     state = urllib.parse.quote_plus(state)
     url = f"https://facilities.aicte-india.org/dashboard/pages/php/approvedinstituteserver.php?method={method}&year={year}&program={program}&level={level}&institutiontype={institutiontype}&Women={Women}&Minority={Minority}&state={state}&course={course}"
-    # print(url)
     resp = requests.get(url).json()
     return resp
 
 def get_college_details(aicteid, year):
     url = f"https://facilities.aicte-india.org/dashboard/pages/php/approvedcourse.php?method=fetchdata&aicteid=/{aicteid}/&course=/1/&year=/{year}/"
-    # print(url)
     resp = requests.get(url).json()
     return resp
 
@@ -73,7 +72,6 @@ for state in states:
     data = {states[state]: {"id": {}}}
     for year in years:
         records = get_colleges(state=states[state], year=year)
-        # time.sleep(1)
         if records is not None:
             print(len(records))
             i = 1
@@ -81,7 +79,6 @@ for state in states:
                 try:
                     aicte_id = record[0]
                     college_details = get_college_details(aicteid=aicte_id, year=year)
-                    # time.sleep(1)
                     if college_details is None:
                         continue
                     _name = record[1]
@@ -94,7 +91,6 @@ for state in states:
                         }
                     for course in college_details:
                         try:
-                            # print(course)
                             _id = f"{record[1]}`{course[3]}`{course[5]}`{course[6]}"
                             if _id in data[states[state]]["id"].keys():
                                 continue
@@ -110,8 +106,7 @@ for state in states:
                 except:
                     continue
                 print(count, "\t", i, "\t", year, "\t", state, "\t", _name)
-                os.system('play -nq -t alsa synth {} sine {}'.format(duration, freq))
-                # print("\a")
+                # os.system('play -nq -t alsa synth {} sine {}'.format(duration, freq))
                 i += 1
                 count += 1
             print()
